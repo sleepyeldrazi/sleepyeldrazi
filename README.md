@@ -30,9 +30,3 @@ M.Sc. Computer Science @ RWTH Aachen
 ## Stack
 Go · Python · C/C++ · TypeScript · Java/Kotlin  
 LLM systems · local inference · distributed systems · Docker  
-
----
-
-## Contact
-Email: konik98@gmail.com  
-LinkedIn: linkedin.com/in/kaloyan-nikolov-050681117

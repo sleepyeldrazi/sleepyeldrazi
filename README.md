@@ -16,14 +16,9 @@ M.Sc. Computer Science @ RWTH Aachen
 
 ## Selected Work
 
-**kokoclaw** — operator-controlled runtime for local LLMs  
-→ OpenAI-compatible gateway, approval-gated tool use, persistent state  
-
-**delta-code** — planning-first coding agent  
-→ typed planning, structured execution, benchmark pipelines  
-
-**local_swarm** — distributed local-model runtime  
-→ multi-node orchestration, consensus-based inference  
+kokoclaw — operator-controlled runtime for local LLMs  
+delta-code — planning-first coding agent  
+local_swarm — distributed local-model runtime
 
 ---
 

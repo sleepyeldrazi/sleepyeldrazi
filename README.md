@@ -16,7 +16,7 @@ M.Sc. Computer Science @ RWTH Aachen
 
 ## Selected Work
 
-sleepy-agent - Local inference mobile AI chat with web-searching
+sleepy-agent - Local inference mobile AI chat with web-searching  
 kokoclaw — operator-controlled runtime for local LLMs  
 delta-code — planning-first coding agent  
 local_swarm — distributed local-model runtime

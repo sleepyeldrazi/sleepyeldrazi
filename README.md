@@ -1,6 +1,6 @@
 # Kaloyan Nikolov
 
-Software engineer building reliable LLM systems and agent runtimes.
+Software engineer building local-first LLM systems and agent runtimes.
 
 M.Sc. Computer Science @ RWTH Aachen
 
@@ -16,6 +16,7 @@ M.Sc. Computer Science @ RWTH Aachen
 
 ## Selected Work
 
+sleepy-agent - Local inference mobile AI chat with web-searching
 kokoclaw — operator-controlled runtime for local LLMs  
 delta-code — planning-first coding agent  
 local_swarm — distributed local-model runtime

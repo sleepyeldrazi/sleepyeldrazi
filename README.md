@@ -17,8 +17,11 @@ Active work on [git.kokoham.com](https://git.kokoham.com/sleepy).
 ## Active projects
 
 [omlx](https://github.com/jundot/omlx) — personal fork with MTP decoding and Q4 KV cache with Hadamard rotation
+
 [sleepy-llm](https://git.kokoham.com/sleepy/sleepy-llm) — Zig-native LLM inference engine with hand-tuned Metal kernels
+
 [sleepy-agent](https://github.com/sleepyeldrazi/sleepy-agent) — fully local Android AI assistant, on-device Gemma 4 inference
+
 [qwen_orthrus](https://git.kokoham.com/sleepy/qwen_orthrus) — exploring Orthrus diffusion for ternary-weight and hybrid LLM architectures
 
 ---

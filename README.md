@@ -27,9 +27,9 @@ Active work on [git.kokoham.com](https://git.kokoham.com/sleepy).
 ---
 
 ## Background
-- Full port of a C++ speech recognition toolkit to Android using NDK.
-- Work on a custom MHA PyTorch module
-- Training of Attention and CTC multilingual ASR models with code-switching finetuning.
+- Cross-compiled the core RASR ASR inference engine from x86 to ARM and Android.
+- Built a streaming on-device ASR demo on Pixel 6, benchmarking ONNX Runtime and TFLite as independent backends.
+- Trained streaming ASR models in PyTorch with causal topologies and hard latency constraints for edge deployment.
 
 ---
 
